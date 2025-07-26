@@ -1,3 +1,5 @@
+# CAUTION: this is a branch of LXMF based on the MIT licensed code starting from 0.6.3. If you are looking for current, you probably wanted to go to https://github.com/markqvist/LXMF.
+
 # Lightweight Extensible Message Format
 
 LXMF is a simple and flexible messaging format and delivery protocol that allows a wide variety of implementations, while using as little bandwidth as possible. It is built on top of [Reticulum](https://reticulum.network) and offers zero-conf message routing, end-to-end encryption and Forward Secrecy, and can be transported over any kind of medium that Reticulum supports.
